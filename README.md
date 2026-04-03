@@ -1,6 +1,6 @@
-# 🎮 DQN for Atari Breakout
+#  DQN for Atari Breakout
 
-## 👤 Students Details
+##  Students Details
 
 * **Name:** Sanskriti Singh
 * **Roll No:** 23BAI10269
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 This project implements a **Deep Q-Network (DQN)** to play the Atari game **Breakout** using Reinforcement Learning.
 
@@ -18,7 +18,7 @@ The agent learns to play the game by interacting with the environment and improv
 
 ---
 
-## 🧠 Key Concepts Used
+##  Key Concepts Used
 
 * Reinforcement Learning
 * Deep Q-Network (DQN)
@@ -28,7 +28,7 @@ The agent learns to play the game by interacting with the environment and improv
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * PyTorch
@@ -38,7 +38,7 @@ The agent learns to play the game by interacting with the environment and improv
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The environment is preprocessed (grayscale + resize + frame stacking)
 2. The DQN model predicts Q-values for actions
@@ -49,7 +49,7 @@ The agent learns to play the game by interacting with the environment and improv
 
 ---
 
-## ▶️ Output
+##  Output
 
 * Training reward vs episodes graph
 * Loss curve
@@ -58,13 +58,13 @@ The agent learns to play the game by interacting with the environment and improv
 
 ---
 
-## 📂 File Included
+##  File Included
 
 * `23BAI10269--23BAI11320.py` → Main implementation file
 
 ---
 
-## 📌 Note
+##  Note
 
 * Designed to run in environments supporting Gymnasium Atari
 * GPU support is used if available
