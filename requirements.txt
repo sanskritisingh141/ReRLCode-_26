@@ -1,0 +1,10 @@
+gymnasium[atari]
+ale-py
+autorom
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+imageio
+imageio-ffmpeg
